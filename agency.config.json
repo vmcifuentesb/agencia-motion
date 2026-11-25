@@ -1,0 +1,9 @@
+{
+  "agencyName": "Motion Designers Studio",
+  "mode": "multi-brand",
+  "singleBrandDir": "brand",
+  "multiBrandDir": "marcas",
+  "engines": ["remotion", "hyperframe", "motion-canvas"],
+  "inspirationSourcesFile": "fuentes_inspiracion.md",
+  "antiRepetitionWindow": 3
+}
